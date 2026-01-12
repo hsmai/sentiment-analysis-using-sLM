@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-sLM
+# sentiment-analysis-using-sLM
 
 NSMC(네이버 영화 리뷰 감성분석 데이터셋)에 대해 llama-3.2-Korean-Bllossom-3B 모델을 LoRA fine tuning하여 데이터셋에 대한 성능을 확인합니다.
 
